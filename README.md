@@ -1,2 +1,2 @@
 # modelssmartupdate
-Django models_smart_update function allows to update several models by single query
+Django models smart update function allows to update several models by single PostgreSQL query
